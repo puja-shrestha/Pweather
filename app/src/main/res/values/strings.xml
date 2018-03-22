@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pweather</string>
+    <string name="textViewWeather">Weather</string>
+</resources>
